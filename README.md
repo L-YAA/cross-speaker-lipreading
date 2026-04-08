@@ -15,7 +15,7 @@ This repository focuses on improving lipreading robustness under unseen-speaker 
 
 ## Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/个性特征解耦.png)
 
 The overall pipeline consists of two major stages:
 
