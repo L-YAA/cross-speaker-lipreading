@@ -1,0 +1,6 @@
+name: default
+snr_target: 999999
+beam_size: 40
+lm_weight: 0.3
+rnn_lm: language_models/CMLR/lm_zh/model.pth
+rnn_lm_conf: language_models/CMLR/lm_zh/model.json
